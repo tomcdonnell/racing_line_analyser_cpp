@@ -10,8 +10,7 @@
 // INCLUDES ///////////////////////////////////////////////////////////////////////////////////////
 
 #include "graphics.h"
-
-#include <TomsLibrary/geometry.h>
+#include "lib_tom_cpp/geometry.h"
 
 #include <assert.h>
 #include   <math.h>
